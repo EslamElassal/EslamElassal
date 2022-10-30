@@ -28,12 +28,11 @@
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
 ### Natural Language Processing (NLP):
-- Arabic Text Summarization After Doing a Literature Review
-- [Arabic Twitter Sentiment Analysis Classification](https://github.com/girgismicheal/Sentiment-Analysis-in-Arabic-tweet)
-- [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
-- [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
-- [iCare ChatBot](https://github.com/girgismicheal/iCare-ChatBot)
-- Autocorrection
+- [Arabic Twitter Sentiment Analysis Classification](https://github.com/EslamElassal/Sentiment-Analysis-in-Arabic-tweet-main)
+- [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/EslamElassal/Gutenberg-Classification-Project-)
+- [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/EslamElassal/-Gutenberg-Clustering-Project)
+- [ChatBot Recommender System](https://github.com/EslamElassal/NLP_Project_Chatbot_Recommender_System)
+
 
 ### Computer Vision (CV):
 - DeepFake Detection
@@ -43,8 +42,8 @@
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
 ### Reinforcement Learning (RL):
-- [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
-- Dell Hacktrick Multi Agent Game Competition
+- [Atari Games using Q-Learning](https://github.com/EslamElassal/Reinforcement-Learning-Task)
+
 
 ### Graduation Projects
 - uOttawa:
