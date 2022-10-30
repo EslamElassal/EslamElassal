@@ -23,9 +23,11 @@
 - Build Data Warehousing using SQL Server and R Language
 
 ### Machine Learning (ML):
-- [Network Intrusion Detection using Deep Learning](https://github.com/girgismicheal/Network-Intrusion-Detection-using-DeepLearning)
-- Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
-- Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+- [Network Intrusion Detection using Deep Learning](https://github.com/EslamElassal/Machine_learning_Project_Detect_anomalies_using_Deep_learning)
+- [Machine Learning Bagging and Boosting Models](https://github.com/EslamElassal/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment)
+- [Machine Learning Clustering Models](https://github.com/EslamElassal/Machine-learning-Clustering-models-Third_assignment)
+- [Machine Learning Classification Models](https://github.com/EslamElassal/-Machine-learning-Classification-models-Second_assignment)
+- [Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features](https://github.com/EslamElassal/Machine-learning-OVR-vs-OVO-First_assignment)
 
 ### Natural Language Processing (NLP):
 - [Arabic Twitter Sentiment Analysis Classification](https://github.com/EslamElassal/Sentiment-Analysis-in-Arabic-tweet-main)
