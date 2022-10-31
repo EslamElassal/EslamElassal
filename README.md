@@ -18,6 +18,7 @@
 
 # Projects
 ### Data Science:
+- [Price_Optimization_In_E_Commerce_Using_ML](https://github.com/EslamElassal/Price_Optimization_In_E_Commerce_Using_ML)
 - [Customer Churn using R Language](https://github.com/EslamElassal/Customer-Churn-Classification-using-R)
 - [Market Basket Analysis (MBA)](https://github.com/EslamElassal/Market-Basket-Analysis-using-R)
 - [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language](https://github.com/EslamElassal/RDBMS-SQL-Data-Warehousing-OLAP)
