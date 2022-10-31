@@ -35,13 +35,16 @@
 - [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/EslamElassal/-Gutenberg-Clustering-Project)
 - [ChatBot Recommender System](https://github.com/EslamElassal/NLP_Project_Chatbot_Recommender_System)
 
+### Smart Cities :
+- [Arabic Twitter Sentiment Analysis Classification](https://github.com/EslamElassal/Sentiment-Analysis-in-Arabic-tweet-main)
+- [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/EslamElassal/Gutenberg-Classification-Project-)
+
+### GANs:
+- [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/EslamElassal/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN-)
 
 ### Computer Vision (CV):
 - DeepFake Detection
 - Image Matting
-
-### GANs:
-- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/EslamElassal/Reinforcement-Learning-Task)
