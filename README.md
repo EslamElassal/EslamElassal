@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eslam Elassal</h1>
 <h3 align="center"> Data Engineer| Machine learning Engineer | Data scientist | AI Master's Student at the University of Ottawa, Canada</h3>
 <h3 align="center"> Full Stack Developer Asp.net core plus Angular | Faculty of computers and Information, Multimedia Department (3.18 of 4) Very Good With Honors</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/eslam-elassal-740201121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslam-elassal-740201121/" height="30" width="40" /></a>
