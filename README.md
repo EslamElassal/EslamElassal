@@ -36,8 +36,8 @@
 - [ChatBot Recommender System](https://github.com/EslamElassal/NLP_Project_Chatbot_Recommender_System)
 
 ### Smart Cities :
-- [Arabic Twitter Sentiment Analysis Classification](https://github.com/EslamElassal/Sentiment-Analysis-in-Arabic-tweet-main)
-- [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/EslamElassal/Gutenberg-Classification-Project-)
+- [Machine learning approach to identify fake tasks](https://github.com/EslamElassal/machine-learning-ML-approaches-to-identify-fake-tasks)
+- [Time Series Anomaly Detection](https://github.com/EslamElassal/Time_Series_Anomaly_Detection)
 
 ### GANs:
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/EslamElassal/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN-)
