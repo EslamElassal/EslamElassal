@@ -18,12 +18,10 @@
 
 # Projects
 ### Data Science:
-- [Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature](https://github.com/KerolosAtef/Stock-market-prediction-using-sentiment-analysis-of-twitter)
-- [Customer Churn using R Language](https://github.com/girgismicheal/Customer-Churn-Classification-using-R)
-- [Market Basket Analysis (MBA)](https://github.com/girgismicheal/Market-Basket-Analysis-using-R)
-- [Mancala game using minimax alpha-beta algorithm](https://github.com/girgismicheal/Mancala-game-with-ai-players)
-- Build RDBMS using SQL Server
-- Build Data Warehousing using SQL Server and R Language
+- [Customer Churn using R Language](https://github.com/EslamElassal/Customer-Churn-Classification-using-R)
+- [Market Basket Analysis (MBA)](https://github.com/EslamElassal/Market-Basket-Analysis-using-R)
+- [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language](https://github.com/EslamElassal/RDBMS-SQL-Data-Warehousing-OLAP)
+ 
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection using Deep Learning](https://github.com/EslamElassal/Machine_learning_Project_Detect_anomalies_using_Deep_learning)
