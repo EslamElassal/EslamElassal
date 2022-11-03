@@ -18,7 +18,7 @@
 
 # Projects
 ### Data Engineer Nano-Degree from Udacity :
-- [Data-Modeling-with-Apache-Cassandra](https://github.com/EslamElassal/Data-Modeling-with-Postgres-Sparkify)
+- [Data-Modeling-with-Postgres-Sparkify](https://github.com/EslamElassal/Data-Modeling-with-Postgres-Sparkify)
 - [Data-Modeling-with-Apache-Cassandra](https://github.com/EslamElassal/Data-Modeling-with-Apache-Cassandra)
  
 
