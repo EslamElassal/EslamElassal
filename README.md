@@ -50,8 +50,7 @@
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/EslamElassal/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN-)
 
 ### Computer Vision (CV):
-- DeepFake Detection
-- Image Matting
+--loading........
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/EslamElassal/Reinforcement-Learning-Task)
@@ -59,107 +58,17 @@
 
 ### Graduation Projects
 - uOttawa:
-  - Virtual Fitting Room
-- Ain Shams:
-  - [Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities](https://github.com/Mostafa-ashraf19/BrainWheel)
-
+  -  
+- Assuit University:
+--
 # Additional Activities
 ### Practice:
-- Problem Solving ([LeetCode](https://github.com/girgismicheal/Problem-Solving-LeetCode) - CodeForces)
-
+- Problem Solving  
 ### Competition:
-- [Fully Functional DeepLearning Library (AinShamsFlow inspired by TensorFlow)](https://github.com/PierreNabil/AinShamsFlow) Wins the 1<sup>st</sup> Place out of 50 Teams
-- [BrainWheel (My Graduation Project)](https://github.com/Mostafa-ashraf19/BrainWheel) Wins the 4<sup>th</sup> Place out of 233 Teams at Dell Technologies 2021
-- [Dell Hacktrick'22 is a Multi-Agent Reinforcement Learning Competition]() Top 8<sup>th</sup> out of 32 Teams
-
+--
 ### Desktop Application
- - [Memory-Management-Application-Using-QT-framework](https://github.com/girgismicheal/Memory-Management-Application-Using-QT-framework)
- - [Process-Scheduling-Application-Using-QT-framework](https://github.com/girgismicheal/Process-Scheduling-Application-Using-QT-framework)
-
+--
 ### Technical Certificates:
-- AWS
-  - Cloud Practitioner ([Certificate](https://www.credly.com/badges/cec177d6-3ed7-42f0-9203-af8aef7dd395?source=linked_in_profile))
-  - [Machine Learning](https://github.com/girgismicheal/Machine-Learning-on-AWS?fbclid=IwAR24sFIh4lZ1WJw7uO0--tDqlOg4MD6GTEK2wzdN4bSM94SSkppabYBoG_M) ([Certificate](https://www.credly.com/badges/eb1c4a59-86d0-4537-b51f-6728144bd2f9?source=linked_in_profile))
-    - [Use case 1]()
-    - [Use case 2]()
-    - [Use case 3]()
-  - [Data Analytics](https://github.com/girgismicheal/Data-Analytics-on-AWS?fbclid=IwAR1xW6z6wyQ5TamR4YMHP3kOyD_pzUJKCTBlkE99rwhV2-QHiPtLT-t8AVM) (Certificate)
-    - [Data Integration using ML](https://github.com/girgismicheal/Data-Integration-using-ML)
-    - [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main) and [My-Step-By-Step-Video-Record](https://drive.google.com/drive/folders/1POylvI2S2wWIMmW39OjwuVwUsVDhuXYl?usp=sharing)
-
-
+--
 ### Online Courses:
-- FWD
-  - [Advanced Data Analysis](https://github.com/girgismicheal/Advanced-Data-Analysis-egfwd)
-  - [Data Analysis Professional](https://github.com/girgismicheal/Professional-Data-Analysis-egfwd)
-- Coursera
-  - [Generative Adversarial Networks (GANs) Specialization by Sharon Zhou](https://github.com/girgismicheal/Generative-Adversarial-Networks-GANs-Specialization-Coursera)
-  - TensorFlow Developer Specialization by Laurence Moroney
-  - Deep Learning Specialization by Andrew Ng
-  - Machine Learning by Andrew Ng – Stanford University
-- MIT
-  - Mathematics for Computer Science by Tom Leighton
-
-
-# Completed Project Repos:
-- [X] Stock Market Prediction using the Tweets Sentiment Analysis as Additional Feature
-- [ ] DeepFake Detection
-- [X] Customer Churn using R Language
-- [X] Market Basket Analysis (MBA)
-- [ ] Build RDBMS using SQL Server
-- [ ] Build Data Warehousing using SQL Server and R Language
-
-- [X] Network Intrusion Detection using Deep Learning
-- [ ] Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
-- [ ] Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
-
-- [ ] Arabic Text Summarization After Doing a Literature Review
-- [ ] Arabic Twitter Sentiment Analysis Classification
-- [X] Book Classification (Classification-Is-All-You-Need)
-- [X] Book Clustering (Clustering-Is-All-You-Need)
-- [X] iCare ChatBot
-- [X] Atari Games using Q-Learning
-
-- [ ] Dell Hacktrick Multi Agent Game Competition
-- [ ] Fake Task Filtering Security Layer using CGAN (Conditional GAN)
-- [X] LeetCode Problems
-- [ ] Image Matting Papers Evaluation
-- [ ] Advanced Data Analysis
-- [ ] Data Analysis Professional
-- [ ] Virtual Fitting Room
-- [ ] Brain-Controlled Electric Smart Wheelchair with Self-Driving Capabilities
-
-- [X] Fully Functional DeepLearning Library
-- [X] Mancala game using minimax alpha-beta algorithm
-
-- [X] Desktop Application
-  - [X] Memory-Management-Application-Using-QT-framework
-  - [X] Process-Scheduling-Application-Using-QT-framework
-
-- [ ] Courses:
-  -[ ] AWS
-    - [X] Machine Learning
-      - [ ] Use Case 1 
-      - [ ] Use Case 2
-      - [ ] Use Case 3
-    - [X] Data Analytics
-      - [ ] Data Integration using ML
-      - [X] AI-Driven Social Media Dashboard
-  - [X] FWD
-    - [X] Advanced Data Analysis Track
-    - [X] Professional Data Analysis Track
-    - [ ] Week Proejects
-  - [ ] Coursera
-    - [X] Generative Adversarial Networks (GANs) Specialization by Sharon Zhou
-    - [ ] TensorFlow Developer Specialization by Laurence Moroney
-    - [ ] Deep Learning Specialization by Andrew Ng
-    - [ ] Machine Learning by Andrew Ng – Stanford University
-    - [ ] Generative Deep Learning with TensorFlow
-    - [ ] Advanced Computer Vision with TensorFlow
-    - [ ] Custom and Distributed Training with TensorFlow
-    - [ ] Custom Models, Layers, and Loss Functions with TensorFlow
-    - [ ] Natural Language Processing with Attention Models
-    - [ ] Natural Language Processing with Sequence Models
-    - [ ] Natural Language Processing with Classification and Vector Spaces
-  - [ ] MIT
-    - [ ] Mathematics for Computer Science by Tom Leighton
+--
