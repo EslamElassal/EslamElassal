@@ -18,7 +18,7 @@
 
 # Projects
 ### Personal Data Engineering Projects :
-- [Call-Center-Warehouse-ETL](https://github.com/EslamElassal/Call-Center-Warehouse-ETL/blob/main/README.md)
+- [Call-Center-Warehouse-ETL](https://github.com/EslamElassal/Call-Center-Warehouse-ETL)
 - [Titanic-Spark-ETL](https://github.com/EslamElassal/Titanic-Spark-ETL)
 
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
