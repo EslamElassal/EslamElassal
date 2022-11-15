@@ -19,6 +19,7 @@
 # Projects
 ### Personal Data Engineering Projects :
 - [Call-Center-Warehouse-ETL](https://github.com/EslamElassal/Call-Center-Warehouse-ETL/blob/main/README.md)
+- [Titanic-Spark-ETL](https://github.com/EslamElassal/Titanic-Spark-ETL)
 
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
 - [Data-Modeling-with-Postgres-Sparkify](https://github.com/EslamElassal/Data-Modeling-with-Postgres-Sparkify)
