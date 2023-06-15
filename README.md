@@ -18,7 +18,7 @@
 
 # Projects
 ### Power BI Desktop Projects :
-- [Call-Center-Warehouse-ETL-Cassandra](https://github.com/EslamElassal/Call-Center-Warehouse-ETL-Cassandra)
+- [Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course](https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/tree/main)
 - [Titanic-Spark-ETL](https://github.com/EslamElassal/Titanic-Spark-ETL)
 - 
 ### Personal Data Engineering Projects :
