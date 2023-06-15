@@ -19,7 +19,7 @@
 # Projects
 ### Power BI Desktop Projects :
 - [Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course](https://github.com/EslamElassal/-Microsoft-Power-BI-Desktop-for-Business-Intelligence-Udemy-Paid-Course/tree/main)
-- [SSRS_Retail_ProjectL](https://github.com/EslamElassal/SSRS_Retail_Project/tree/main)
+- [SSRS_Retail_Project](https://github.com/EslamElassal/SSRS_Retail_Project/tree/main)
 - 
 ### Personal Data Engineering Projects :
 - [Call-Center-Warehouse-ETL-Cassandra](https://github.com/EslamElassal/Call-Center-Warehouse-ETL-Cassandra)
